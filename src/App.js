@@ -1,12 +1,15 @@
+import React from "react";
+import { BrowserRouter, Switch, Route } from 'react-router-dom';
+import Reservation from './components/Reservation';
+
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <p>
-         modeny-admin-client
-        </p>
-      </header>
-    </div>
+    <BrowserRouter>
+      <Switch>
+        {/* <Route exact path="/" component={Login}/> */}
+        <Route path="/reservation" component={Reservation}/>
+      </Switch>
+    </BrowserRouter>
   );
 }
 
