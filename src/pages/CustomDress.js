@@ -1,4 +1,4 @@
-import data from "../mock_data/DRESS_DATA.json";
+import data from "../mock_data/CUSTOMDRESS_DATA.json";
 import { getTable } from "../common/utils";
 
 const rows = [
