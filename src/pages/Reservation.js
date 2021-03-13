@@ -13,6 +13,7 @@ const rows = [
   "반납일",
   "결제",
   "보증금",
+  "특이사항",
 ];
 
 const Reservation = () => {
