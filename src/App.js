@@ -1,20 +1,15 @@
 import React from "react";
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
-import Reservation from './components/Reservation';
-
-import Table from '@material-ui/core/Table';
-import TableBody from '@material-ui/core/TableBody';
-import TableCell from '@material-ui/core/TableCell';
-import TableContainer from '@material-ui/core/TableContainer';
-import TableHead from '@material-ui/core/TableHead';
-import TableRow from '@material-ui/core/TableRow';
+import Appbar from './components/Appbar'
+import Reservation from './pages/Reservation';
 
 function App() {
   return (
     <BrowserRouter>
+    <Appbar />
       <Switch>
         {/* <Route exact path="/" component={Login}/> */}
-        <Route path="/reservation" component={Reservation}/>
+        <Route path="/" component={Reservation}/>
       </Switch>
     </BrowserRouter>
   );
