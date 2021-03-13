@@ -4,6 +4,7 @@ import { createBrowserHistory } from "history";
 
 import clsx from "clsx";
 import { makeStyles, useTheme } from "@material-ui/core/styles";
+
 import Drawer from "@material-ui/core/Drawer";
 import AppBar from "@material-ui/core/AppBar";
 import Toolbar from "@material-ui/core/Toolbar";
@@ -27,6 +28,9 @@ import PanToolIcon from "@material-ui/icons/PanTool";
 
 import Reservation from "../pages/Reservation";
 import Dress from "../pages/Dress";
+import CustomDress from "../pages/CustomDress";
+import Veil from "../pages/Veil";
+import Makeup from "../pages/Makeup";
 
 const history = createBrowserHistory();
 
@@ -162,7 +166,7 @@ export default function MiniDrawer() {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" noWrap>
-            Mini variant drawer
+            Modney admin page
           </Typography>
         </Toolbar>
       </AppBar>
@@ -219,8 +223,11 @@ export default function MiniDrawer() {
         </Drawer>
         <main className={classes.content}>
           <div className={classes.toolbar} />
-          <Route exact path="/reservation" component={Reservation} />
+          <Route path="/reservation" component={Reservation} />
           <Route path="/dress" component={Dress} />
+          <Route path="/customDress" component={CustomDress} />
+          <Route path="/veil" component={Veil} />
+          <Route path="/makeup" component={Makeup} />
         </main>
       </Router>
     </div>

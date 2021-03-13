@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1,
+    "dressName": "lobortis sapien",
+    "updatedAt": "10/13/2020",
+    "cost": "$5.19",
+    "margin": "$8.25",
+    "quantity": 1,
+    "openQuantity": 1,
+    "note": "pede malesuada in imperdiet et"
+  },
+  {
+    "id": 2,
+    "dressName": "curabitur at ipsum ac",
+    "updatedAt": "4/3/2020",
+    "cost": "$1.03",
+    "margin": "$9.15",
+    "quantity": 2,
+    "openQuantity": 2,
+    "note": "nec nisi volutpat"
+  },
+  {
+    "id": 3,
+    "dressName": "id nulla ultrices",
+    "updatedAt": "2/6/2021",
+    "cost": "$4.94",
+    "margin": "$1.75",
+    "quantity": 3,
+    "openQuantity": 3,
+    "note": "nisl duis ac nibh fusce"
+  },
+  {
+    "id": 4,
+    "dressName": "amet",
+    "updatedAt": "10/14/2020",
+    "cost": "$6.25",
+    "margin": "$1.38",
+    "quantity": 4,
+    "openQuantity": 4,
+    "note": "nibh in lectus"
+  },
+  {
+    "id": 5,
+    "dressName": "quam sapien varius",
+    "updatedAt": "1/6/2021",
+    "cost": "$6.00",
+    "margin": "$0.14",
+    "quantity": 5,
+    "openQuantity": 5,
+    "note": "augue a"
+  },
+  {
+    "id": 6,
+    "dressName": "maecenas pulvinar lobortis est",
+    "updatedAt": "10/10/2020",
+    "cost": "$4.98",
+    "margin": "$6.81",
+    "quantity": 6,
+    "openQuantity": 6,
+    "note": "amet justo morbi ut"
+  },
+  {
+    "id": 7,
+    "dressName": "in",
+    "updatedAt": "1/30/2021",
+    "cost": "$9.60",
+    "margin": "$2.85",
+    "quantity": 7,
+    "openQuantity": 7,
+    "note": "cubilia"
+  },
+  {
+    "id": 8,
+    "dressName": "vel augue vestibulum rutrum rutrum",
+    "updatedAt": "12/30/2020",
+    "cost": "$5.87",
+    "margin": "$1.96",
+    "quantity": 8,
+    "openQuantity": 8,
+    "note": "nulla tempus vivamus"
+  },
+  {
+    "id": 9,
+    "dressName": "erat id",
+    "updatedAt": "10/22/2020",
+    "cost": "$6.02",
+    "margin": "$0.93",
+    "quantity": 9,
+    "openQuantity": 9,
+    "note": "turpis integer aliquet massa id"
+  },
+  {
+    "id": 10,
+    "dressName": "sed",
+    "updatedAt": "6/3/2020",
+    "cost": "$4.41",
+    "margin": "$0.57",
+    "quantity": 10,
+    "openQuantity": 10,
+    "note": "leo odio porttitor id"
+  },
+  {
+    "id": 11,
+    "dressName": "suspendisse potenti in eleifend quam",
+    "updatedAt": "5/6/2020",
+    "cost": "$6.50",
+    "margin": "$5.34",
+    "quantity": 11,
+    "openQuantity": 11,
+    "note": "nibh"
+  },
+  {
+    "id": 12,
+    "dressName": "neque vestibulum",
+    "updatedAt": "2/8/2021",
+    "cost": "$9.10",
+    "margin": "$6.51",
+    "quantity": 12,
+    "openQuantity": 12,
+    "note": "purus"
+  },
+  {
+    "id": 13,
+    "dressName": "nulla pede ullamcorper",
+    "updatedAt": "6/25/2020",
+    "cost": "$0.58",
+    "margin": "$7.66",
+    "quantity": 13,
+    "openQuantity": 13,
+    "note": "amet"
+  },
+  {
+    "id": 14,
+    "dressName": "nunc",
+    "updatedAt": "8/24/2020",
+    "cost": "$1.08",
+    "margin": "$7.78",
+    "quantity": 14,
+    "openQuantity": 14,
+    "note": "condimentum curabitur in"
+  },
+  {
+    "id": 15,
+    "dressName": "dapibus augue vel accumsan",
+    "updatedAt": "7/14/2020",
+    "cost": "$9.36",
+    "margin": "$8.61",
+    "quantity": 15,
+    "openQuantity": 15,
+    "note": "eget elit sodales"
+  },
+  {
+    "id": 16,
+    "dressName": "purus",
+    "updatedAt": "10/24/2020",
+    "cost": "$9.86",
+    "margin": "$7.11",
+    "quantity": 16,
+    "openQuantity": 16,
+    "note": "nec condimentum neque sapien placerat"
+  },
+  {
+    "id": 17,
+    "dressName": "quis tortor id nulla",
+    "updatedAt": "11/28/2020",
+    "cost": "$7.70",
+    "margin": "$0.57",
+    "quantity": 17,
+    "openQuantity": 17,
+    "note": "vestibulum"
+  },
+  {
+    "id": 18,
+    "dressName": "velit eu est congue",
+    "updatedAt": "3/17/2020",
+    "cost": "$7.94",
+    "margin": "$3.75",
+    "quantity": 18,
+    "openQuantity": 18,
+    "note": "tincidunt in leo"
+  },
+  {
+    "id": 19,
+    "dressName": "fusce",
+    "updatedAt": "12/19/2020",
+    "cost": "$3.17",
+    "margin": "$2.22",
+    "quantity": 19,
+    "openQuantity": 19,
+    "note": "ante nulla justo aliquam"
+  },
+  {
+    "id": 20,
+    "dressName": "nullam sit amet",
+    "updatedAt": "6/14/2020",
+    "cost": "$9.29",
+    "margin": "$0.73",
+    "quantity": 20,
+    "openQuantity": 20,
+    "note": "nam dui proin"
+  },
+  {
+    "id": 21,
+    "dressName": "felis",
+    "updatedAt": "4/20/2020",
+    "cost": "$9.08",
+    "margin": "$0.53",
+    "quantity": 21,
+    "openQuantity": 21,
+    "note": "risus"
+  },
+  {
+    "id": 22,
+    "dressName": "cubilia curae",
+    "updatedAt": "4/2/2020",
+    "cost": "$4.19",
+    "margin": "$4.40",
+    "quantity": 22,
+    "openQuantity": 22,
+    "note": "placerat praesent blandit"
+  },
+  {
+    "id": 23,
+    "dressName": "cursus urna ut tellus nulla",
+    "updatedAt": "9/1/2020",
+    "cost": "$2.84",
+    "margin": "$1.92",
+    "quantity": 23,
+    "openQuantity": 23,
+    "note": "dapibus"
+  },
+  {
+    "id": 24,
+    "dressName": "mauris laoreet ut rhoncus",
+    "updatedAt": "4/24/2020",
+    "cost": "$8.03",
+    "margin": "$3.66",
+    "quantity": 24,
+    "openQuantity": 24,
+    "note": "nisl duis bibendum"
+  },
+  {
+    "id": 25,
+    "dressName": "nunc nisl duis bibendum felis",
+    "updatedAt": "11/29/2020",
+    "cost": "$6.72",
+    "margin": "$7.90",
+    "quantity": 25,
+    "openQuantity": 25,
+    "note": "hac habitasse platea dictumst maecenas"
+  },
+  {
+    "id": 26,
+    "dressName": "sapien placerat ante nulla",
+    "updatedAt": "9/10/2020",
+    "cost": "$0.44",
+    "margin": "$7.15",
+    "quantity": 26,
+    "openQuantity": 26,
+    "note": "maecenas"
+  },
+  {
+    "id": 27,
+    "dressName": "cubilia",
+    "updatedAt": "12/12/2020",
+    "cost": "$5.75",
+    "margin": "$8.61",
+    "quantity": 27,
+    "openQuantity": 27,
+    "note": "vestibulum ante ipsum primis in"
+  },
+  {
+    "id": 28,
+    "dressName": "tortor",
+    "updatedAt": "3/7/2021",
+    "cost": "$9.95",
+    "margin": "$8.03",
+    "quantity": 28,
+    "openQuantity": 28,
+    "note": "sit amet sem"
+  },
+  {
+    "id": 29,
+    "dressName": "a feugiat et eros",
+    "updatedAt": "7/26/2020",
+    "cost": "$8.83",
+    "margin": "$4.42",
+    "quantity": 29,
+    "openQuantity": 29,
+    "note": "proin risus praesent lectus vestibulum"
+  },
+  {
+    "id": 30,
+    "dressName": "fusce congue diam id",
+    "updatedAt": "7/4/2020",
+    "cost": "$5.24",
+    "margin": "$2.67",
+    "quantity": 30,
+    "openQuantity": 30,
+    "note": "varius"
+  },
+  {
+    "id": 31,
+    "dressName": "quis turpis",
+    "updatedAt": "10/1/2020",
+    "cost": "$9.49",
+    "margin": "$3.44",
+    "quantity": 31,
+    "openQuantity": 31,
+    "note": "vitae"
+  },
+  {
+    "id": 32,
+    "dressName": "accumsan",
+    "updatedAt": "3/13/2021",
+    "cost": "$8.30",
+    "margin": "$9.68",
+    "quantity": 32,
+    "openQuantity": 32,
+    "note": "cubilia curae mauris"
+  },
+  {
+    "id": 33,
+    "dressName": "mollis molestie lorem",
+    "updatedAt": "2/26/2021",
+    "cost": "$0.10",
+    "margin": "$2.86",
+    "quantity": 33,
+    "openQuantity": 33,
+    "note": "eget nunc donec quis orci"
+  },
+  {
+    "id": 34,
+    "dressName": "felis donec semper sapien a",
+    "updatedAt": "6/28/2020",
+    "cost": "$2.36",
+    "margin": "$9.37",
+    "quantity": 34,
+    "openQuantity": 34,
+    "note": "vestibulum eget vulputate ut ultrices"
+  },
+  {
+    "id": 35,
+    "dressName": "tincidunt in leo maecenas",
+    "updatedAt": "5/1/2020",
+    "cost": "$2.58",
+    "margin": "$3.05",
+    "quantity": 35,
+    "openQuantity": 35,
+    "note": "at feugiat non"
+  },
+  {
+    "id": 36,
+    "dressName": "augue luctus tincidunt",
+    "updatedAt": "2/20/2021",
+    "cost": "$7.91",
+    "margin": "$0.42",
+    "quantity": 36,
+    "openQuantity": 36,
+    "note": "curabitur convallis duis"
+  },
+  {
+    "id": 37,
+    "dressName": "nonummy maecenas tincidunt lacus",
+    "updatedAt": "6/27/2020",
+    "cost": "$4.01",
+    "margin": "$8.04",
+    "quantity": 37,
+    "openQuantity": 37,
+    "note": "sit amet eros suspendisse"
+  },
+  {
+    "id": 38,
+    "dressName": "aliquam quis",
+    "updatedAt": "12/24/2020",
+    "cost": "$8.94",
+    "margin": "$6.02",
+    "quantity": 38,
+    "openQuantity": 38,
+    "note": "cras non velit nec nisi"
+  },
+  {
+    "id": 39,
+    "dressName": "luctus et ultrices",
+    "updatedAt": "5/27/2020",
+    "cost": "$6.37",
+    "margin": "$6.02",
+    "quantity": 39,
+    "openQuantity": 39,
+    "note": "augue luctus tincidunt nulla"
+  },
+  {
+    "id": 40,
+    "dressName": "vestibulum velit id pretium",
+    "updatedAt": "9/22/2020",
+    "cost": "$8.76",
+    "margin": "$8.09",
+    "quantity": 40,
+    "openQuantity": 40,
+    "note": "vestibulum ac est lacinia nisi"
+  },
+  {
+    "id": 41,
+    "dressName": "curae donec pharetra magna vestibulum",
+    "updatedAt": "2/26/2021",
+    "cost": "$1.63",
+    "margin": "$9.15",
+    "quantity": 41,
+    "openQuantity": 41,
+    "note": "leo odio condimentum id luctus"
+  },
+  {
+    "id": 42,
+    "dressName": "dictumst morbi vestibulum",
+    "updatedAt": "1/7/2021",
+    "cost": "$0.84",
+    "margin": "$9.84",
+    "quantity": 42,
+    "openQuantity": 42,
+    "note": "lorem id ligula suspendisse ornare"
+  },
+  {
+    "id": 43,
+    "dressName": "suspendisse potenti nullam porttitor lacus",
+    "updatedAt": "3/22/2020",
+    "cost": "$3.44",
+    "margin": "$5.09",
+    "quantity": 43,
+    "openQuantity": 43,
+    "note": "facilisi cras"
+  },
+  {
+    "id": 44,
+    "dressName": "justo sollicitudin ut suscipit",
+    "updatedAt": "5/9/2020",
+    "cost": "$6.68",
+    "margin": "$7.37",
+    "quantity": 44,
+    "openQuantity": 44,
+    "note": "fermentum donec ut"
+  },
+  {
+    "id": 45,
+    "dressName": "interdum mauris",
+    "updatedAt": "12/29/2020",
+    "cost": "$4.26",
+    "margin": "$1.17",
+    "quantity": 45,
+    "openQuantity": 45,
+    "note": "mus"
+  },
+  {
+    "id": 46,
+    "dressName": "consectetuer adipiscing elit proin risus",
+    "updatedAt": "3/12/2021",
+    "cost": "$6.11",
+    "margin": "$4.62",
+    "quantity": 46,
+    "openQuantity": 46,
+    "note": "sit amet consectetuer"
+  },
+  {
+    "id": 47,
+    "dressName": "aenean auctor",
+    "updatedAt": "4/30/2020",
+    "cost": "$4.62",
+    "margin": "$7.29",
+    "quantity": 47,
+    "openQuantity": 47,
+    "note": "nonummy integer non"
+  },
+  {
+    "id": 48,
+    "dressName": "donec ut dolor",
+    "updatedAt": "6/5/2020",
+    "cost": "$6.22",
+    "margin": "$8.68",
+    "quantity": 48,
+    "openQuantity": 48,
+    "note": "duis bibendum morbi non"
+  },
+  {
+    "id": 49,
+    "dressName": "primis in faucibus orci luctus",
+    "updatedAt": "12/13/2020",
+    "cost": "$8.19",
+    "margin": "$9.12",
+    "quantity": 49,
+    "openQuantity": 49,
+    "note": "condimentum curabitur in libero"
+  },
+  {
+    "id": 50,
+    "dressName": "augue luctus",
+    "updatedAt": "11/6/2020",
+    "cost": "$8.80",
+    "margin": "$2.72",
+    "quantity": 50,
+    "openQuantity": 50,
+    "note": "et ultrices posuere"
+  },
+  {
+    "id": 51,
+    "dressName": "in est risus auctor sed",
+    "updatedAt": "9/18/2020",
+    "cost": "$6.73",
+    "margin": "$5.15",
+    "quantity": 51,
+    "openQuantity": 51,
+    "note": "turpis elementum"
+  },
+  {
+    "id": 52,
+    "dressName": "lacinia aenean sit",
+    "updatedAt": "2/26/2021",
+    "cost": "$3.44",
+    "margin": "$0.49",
+    "quantity": 52,
+    "openQuantity": 52,
+    "note": "lobortis vel dapibus"
+  },
+  {
+    "id": 53,
+    "dressName": "bibendum felis",
+    "updatedAt": "1/12/2021",
+    "cost": "$4.45",
+    "margin": "$0.50",
+    "quantity": 53,
+    "openQuantity": 53,
+    "note": "nisl nunc nisl"
+  },
+  {
+    "id": 54,
+    "dressName": "lobortis vel dapibus at",
+    "updatedAt": "3/24/2020",
+    "cost": "$1.70",
+    "margin": "$0.56",
+    "quantity": 54,
+    "openQuantity": 54,
+    "note": "mauris"
+  },
+  {
+    "id": 55,
+    "dressName": "ipsum primis in faucibus orci",
+    "updatedAt": "8/24/2020",
+    "cost": "$1.04",
+    "margin": "$5.68",
+    "quantity": 55,
+    "openQuantity": 55,
+    "note": "at vulputate vitae"
+  },
+  {
+    "id": 56,
+    "dressName": "congue etiam justo",
+    "updatedAt": "7/6/2020",
+    "cost": "$0.40",
+    "margin": "$3.35",
+    "quantity": 56,
+    "openQuantity": 56,
+    "note": "condimentum curabitur in"
+  },
+  {
+    "id": 57,
+    "dressName": "purus aliquet at",
+    "updatedAt": "8/24/2020",
+    "cost": "$4.25",
+    "margin": "$7.05",
+    "quantity": 57,
+    "openQuantity": 57,
+    "note": "blandit mi"
+  },
+  {
+    "id": 58,
+    "dressName": "ac nulla sed vel",
+    "updatedAt": "11/27/2020",
+    "cost": "$0.69",
+    "margin": "$8.83",
+    "quantity": 58,
+    "openQuantity": 58,
+    "note": "volutpat"
+  },
+  {
+    "id": 59,
+    "dressName": "non sodales",
+    "updatedAt": "8/5/2020",
+    "cost": "$1.99",
+    "margin": "$1.33",
+    "quantity": 59,
+    "openQuantity": 59,
+    "note": "ante ipsum"
+  },
+  {
+    "id": 60,
+    "dressName": "odio",
+    "updatedAt": "2/2/2021",
+    "cost": "$3.42",
+    "margin": "$1.46",
+    "quantity": 60,
+    "openQuantity": 60,
+    "note": "elit sodales scelerisque mauris sit"
+  },
+  {
+    "id": 61,
+    "dressName": "sit amet erat nulla",
+    "updatedAt": "11/30/2020",
+    "cost": "$6.81",
+    "margin": "$6.78",
+    "quantity": 61,
+    "openQuantity": 61,
+    "note": "vulputate ut"
+  },
+  {
+    "id": 62,
+    "dressName": "natoque penatibus et magnis dis",
+    "updatedAt": "8/23/2020",
+    "cost": "$5.21",
+    "margin": "$1.93",
+    "quantity": 62,
+    "openQuantity": 62,
+    "note": "elementum pellentesque"
+  },
+  {
+    "id": 63,
+    "dressName": "in hac habitasse",
+    "updatedAt": "11/21/2020",
+    "cost": "$7.91",
+    "margin": "$7.15",
+    "quantity": 63,
+    "openQuantity": 63,
+    "note": "non"
+  },
+  {
+    "id": 64,
+    "dressName": "mauris non ligula pellentesque",
+    "updatedAt": "1/11/2021",
+    "cost": "$2.25",
+    "margin": "$2.62",
+    "quantity": 64,
+    "openQuantity": 64,
+    "note": "luctus rutrum"
+  },
+  {
+    "id": 65,
+    "dressName": "metus arcu adipiscing molestie hendrerit",
+    "updatedAt": "5/10/2020",
+    "cost": "$7.11",
+    "margin": "$2.97",
+    "quantity": 65,
+    "openQuantity": 65,
+    "note": "at vulputate"
+  },
+  {
+    "id": 66,
+    "dressName": "varius integer ac leo pellentesque",
+    "updatedAt": "6/8/2020",
+    "cost": "$3.56",
+    "margin": "$2.71",
+    "quantity": 66,
+    "openQuantity": 66,
+    "note": "odio curabitur convallis duis"
+  },
+  {
+    "id": 67,
+    "dressName": "massa volutpat convallis morbi",
+    "updatedAt": "10/19/2020",
+    "cost": "$1.54",
+    "margin": "$0.58",
+    "quantity": 67,
+    "openQuantity": 67,
+    "note": "ante vestibulum ante ipsum"
+  },
+  {
+    "id": 68,
+    "dressName": "ultrices libero non mattis pulvinar",
+    "updatedAt": "10/20/2020",
+    "cost": "$7.22",
+    "margin": "$8.58",
+    "quantity": 68,
+    "openQuantity": 68,
+    "note": "vel sem sed"
+  },
+  {
+    "id": 69,
+    "dressName": "libero",
+    "updatedAt": "9/25/2020",
+    "cost": "$1.85",
+    "margin": "$8.10",
+    "quantity": 69,
+    "openQuantity": 69,
+    "note": "turpis"
+  },
+  {
+    "id": 70,
+    "dressName": "odio porttitor id consequat in",
+    "updatedAt": "4/20/2020",
+    "cost": "$8.78",
+    "margin": "$4.93",
+    "quantity": 70,
+    "openQuantity": 70,
+    "note": "lacinia sapien quis"
+  },
+  {
+    "id": 71,
+    "dressName": "nulla nunc purus phasellus in",
+    "updatedAt": "7/31/2020",
+    "cost": "$4.77",
+    "margin": "$3.82",
+    "quantity": 71,
+    "openQuantity": 71,
+    "note": "non quam nec"
+  },
+  {
+    "id": 72,
+    "dressName": "nisl aenean",
+    "updatedAt": "3/17/2020",
+    "cost": "$0.64",
+    "margin": "$4.98",
+    "quantity": 72,
+    "openQuantity": 72,
+    "note": "dapibus duis at velit"
+  },
+  {
+    "id": 73,
+    "dressName": "in magna",
+    "updatedAt": "9/16/2020",
+    "cost": "$3.39",
+    "margin": "$2.68",
+    "quantity": 73,
+    "openQuantity": 73,
+    "note": "consequat"
+  },
+  {
+    "id": 74,
+    "dressName": "semper porta volutpat",
+    "updatedAt": "9/27/2020",
+    "cost": "$9.64",
+    "margin": "$9.11",
+    "quantity": 74,
+    "openQuantity": 74,
+    "note": "vivamus"
+  },
+  {
+    "id": 75,
+    "dressName": "euismod",
+    "updatedAt": "5/22/2020",
+    "cost": "$0.44",
+    "margin": "$0.02",
+    "quantity": 75,
+    "openQuantity": 75,
+    "note": "et magnis dis parturient"
+  },
+  {
+    "id": 76,
+    "dressName": "condimentum curabitur in",
+    "updatedAt": "9/21/2020",
+    "cost": "$2.20",
+    "margin": "$9.22",
+    "quantity": 76,
+    "openQuantity": 76,
+    "note": "turpis donec posuere metus"
+  },
+  {
+    "id": 77,
+    "dressName": "volutpat",
+    "updatedAt": "10/28/2020",
+    "cost": "$3.66",
+    "margin": "$5.47",
+    "quantity": 77,
+    "openQuantity": 77,
+    "note": "at ipsum ac"
+  },
+  {
+    "id": 78,
+    "dressName": "lacinia nisi",
+    "updatedAt": "10/4/2020",
+    "cost": "$0.02",
+    "margin": "$8.56",
+    "quantity": 78,
+    "openQuantity": 78,
+    "note": "tortor risus dapibus"
+  },
+  {
+    "id": 79,
+    "dressName": "aenean sit amet",
+    "updatedAt": "12/4/2020",
+    "cost": "$5.18",
+    "margin": "$7.33",
+    "quantity": 79,
+    "openQuantity": 79,
+    "note": "in tempus sit"
+  },
+  {
+    "id": 80,
+    "dressName": "sed tristique in",
+    "updatedAt": "6/22/2020",
+    "cost": "$5.74",
+    "margin": "$2.11",
+    "quantity": 80,
+    "openQuantity": 80,
+    "note": "sodales scelerisque mauris"
+  },
+  {
+    "id": 81,
+    "dressName": "sapien",
+    "updatedAt": "4/19/2020",
+    "cost": "$9.74",
+    "margin": "$0.41",
+    "quantity": 81,
+    "openQuantity": 81,
+    "note": "ac nulla sed"
+  },
+  {
+    "id": 82,
+    "dressName": "diam neque vestibulum eget",
+    "updatedAt": "5/5/2020",
+    "cost": "$8.07",
+    "margin": "$0.09",
+    "quantity": 82,
+    "openQuantity": 82,
+    "note": "sed augue aliquam erat volutpat"
+  },
+  {
+    "id": 83,
+    "dressName": "ultricies eu",
+    "updatedAt": "6/19/2020",
+    "cost": "$5.19",
+    "margin": "$7.38",
+    "quantity": 83,
+    "openQuantity": 83,
+    "note": "vulputate ut ultrices vel"
+  },
+  {
+    "id": 84,
+    "dressName": "faucibus accumsan odio",
+    "updatedAt": "9/24/2020",
+    "cost": "$8.28",
+    "margin": "$9.86",
+    "quantity": 84,
+    "openQuantity": 84,
+    "note": "mauris"
+  },
+  {
+    "id": 85,
+    "dressName": "nulla sed vel",
+    "updatedAt": "5/2/2020",
+    "cost": "$7.81",
+    "margin": "$6.55",
+    "quantity": 85,
+    "openQuantity": 85,
+    "note": "mi pede"
+  },
+  {
+    "id": 86,
+    "dressName": "sit amet eleifend pede",
+    "updatedAt": "10/9/2020",
+    "cost": "$3.09",
+    "margin": "$1.20",
+    "quantity": 86,
+    "openQuantity": 86,
+    "note": "congue vivamus metus"
+  },
+  {
+    "id": 87,
+    "dressName": "vestibulum",
+    "updatedAt": "6/10/2020",
+    "cost": "$9.45",
+    "margin": "$8.07",
+    "quantity": 87,
+    "openQuantity": 87,
+    "note": "sed augue aliquam erat volutpat"
+  },
+  {
+    "id": 88,
+    "dressName": "augue vestibulum rutrum rutrum neque",
+    "updatedAt": "9/12/2020",
+    "cost": "$3.43",
+    "margin": "$9.86",
+    "quantity": 88,
+    "openQuantity": 88,
+    "note": "morbi non lectus aliquam sit"
+  },
+  {
+    "id": 89,
+    "dressName": "vestibulum sit amet",
+    "updatedAt": "11/16/2020",
+    "cost": "$7.83",
+    "margin": "$5.04",
+    "quantity": 89,
+    "openQuantity": 89,
+    "note": "rutrum ac lobortis vel"
+  },
+  {
+    "id": 90,
+    "dressName": "convallis",
+    "updatedAt": "10/19/2020",
+    "cost": "$1.57",
+    "margin": "$5.74",
+    "quantity": 90,
+    "openQuantity": 90,
+    "note": "imperdiet sapien urna pretium"
+  },
+  {
+    "id": 91,
+    "dressName": "cubilia",
+    "updatedAt": "1/23/2021",
+    "cost": "$1.20",
+    "margin": "$5.81",
+    "quantity": 91,
+    "openQuantity": 91,
+    "note": "nisl ut"
+  },
+  {
+    "id": 92,
+    "dressName": "interdum mauris",
+    "updatedAt": "7/10/2020",
+    "cost": "$3.34",
+    "margin": "$3.81",
+    "quantity": 92,
+    "openQuantity": 92,
+    "note": "quam turpis adipiscing lorem"
+  },
+  {
+    "id": 93,
+    "dressName": "ac leo pellentesque",
+    "updatedAt": "10/28/2020",
+    "cost": "$3.36",
+    "margin": "$8.74",
+    "quantity": 93,
+    "openQuantity": 93,
+    "note": "id"
+  },
+  {
+    "id": 94,
+    "dressName": "placerat ante nulla justo",
+    "updatedAt": "9/18/2020",
+    "cost": "$4.72",
+    "margin": "$5.87",
+    "quantity": 94,
+    "openQuantity": 94,
+    "note": "consequat ut"
+  },
+  {
+    "id": 95,
+    "dressName": "sodales sed tincidunt eu",
+    "updatedAt": "1/7/2021",
+    "cost": "$2.13",
+    "margin": "$9.38",
+    "quantity": 95,
+    "openQuantity": 95,
+    "note": "eget eleifend luctus"
+  },
+  {
+    "id": 96,
+    "dressName": "sapien placerat ante nulla",
+    "updatedAt": "11/30/2020",
+    "cost": "$4.91",
+    "margin": "$7.76",
+    "quantity": 96,
+    "openQuantity": 96,
+    "note": "convallis nunc"
+  },
+  {
+    "id": 97,
+    "dressName": "pede lobortis ligula sit",
+    "updatedAt": "1/21/2021",
+    "cost": "$5.24",
+    "margin": "$7.51",
+    "quantity": 97,
+    "openQuantity": 97,
+    "note": "in"
+  },
+  {
+    "id": 98,
+    "dressName": "nibh in quis justo",
+    "updatedAt": "8/20/2020",
+    "cost": "$3.65",
+    "margin": "$6.43",
+    "quantity": 98,
+    "openQuantity": 98,
+    "note": "faucibus orci luctus"
+  },
+  {
+    "id": 99,
+    "dressName": "lorem id ligula suspendisse",
+    "updatedAt": "11/14/2020",
+    "cost": "$5.47",
+    "margin": "$7.44",
+    "quantity": 99,
+    "openQuantity": 99,
+    "note": "hendrerit at"
+  },
+  {
+    "id": 100,
+    "dressName": "at nunc",
+    "updatedAt": "6/18/2020",
+    "cost": "$5.81",
+    "margin": "$4.77",
+    "quantity": 100,
+    "openQuantity": 100,
+    "note": "lacinia erat"
+  }
+]
