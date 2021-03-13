@@ -4,8 +4,8 @@ import { BasicTable } from "../UI/Table";
 import TableBody from "@material-ui/core/TableBody";
 import TableRow from "@material-ui/core/TableRow";
 import TableCell from "@material-ui/core/TableCell";
-
 import { DatePicker } from "../UI/Picker";
+import { SimpleSelect } from "../UI/Select";
 
 const rows = [
   "고객명",
@@ -32,8 +32,12 @@ const body = (data) => {
           <TableCell align="left">
             <DatePicker />
           </TableCell>
-          <TableCell align="left">{row.payment}</TableCell>
-          <TableCell align="left">{row.hPayment}</TableCell>
+          <TableCell align="left">
+            <SimpleSelect />
+          </TableCell>
+          <TableCell align="left">
+            <SimpleSelect />
+          </TableCell>
           <TableCell align="left">{row.margin}</TableCell>
           <TableCell align="left">{row.note}</TableCell>
         </TableRow>
