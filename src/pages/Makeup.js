@@ -1,5 +1,11 @@
 import data from "../mock_data/MAKEUP_DATA.json";
-import { getTable } from "../common/utils";
+
+import { BasicTable } from "../UI/Table";
+import TableBody from "@material-ui/core/TableBody";
+import TableRow from "@material-ui/core/TableRow";
+import TableCell from "@material-ui/core/TableCell";
+
+import { DatePicker } from "../UI/Picker";
 
 const rows = [
   "고객명",
@@ -11,8 +17,33 @@ const rows = [
   "특이사항",
 ];
 
-const Makeup = () => {
-  return getTable(rows, data);
+const body = (data) => {
+  return (
+    <TableBody>
+      {data.map((row) => (
+        <TableRow key={row.id}>
+          <TableCell component="th" scope="row">
+            {row.id}
+          </TableCell>
+          <TableCell align="left">{row.customer}</TableCell>
+          <TableCell align="left">
+            <DatePicker />
+          </TableCell>
+          <TableCell align="left">
+            <DatePicker />
+          </TableCell>
+          <TableCell align="left">{row.payment}</TableCell>
+          <TableCell align="left">{row.hPayment}</TableCell>
+          <TableCell align="left">{row.margin}</TableCell>
+          <TableCell align="left">{row.note}</TableCell>
+        </TableRow>
+      ))}
+    </TableBody>
+  );
+};
+
+export const Makeup = () => {
+  return <BasicTable rows={rows} data={data} tableBody={body(data)} />;
 };
 
 export default Makeup;
