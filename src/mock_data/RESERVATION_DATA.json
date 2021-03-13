@@ -10,8 +10,8 @@
     "eventDate": "11/23/2020",
     "pickupDate": "4/24/2020",
     "returnDate": "11/12/2020",
-    "payment": "true",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "pellentesque viverra pede ac"
   },
   {
@@ -25,8 +25,8 @@
     "eventDate": "7/9/2020",
     "pickupDate": "7/18/2020",
     "returnDate": "3/2/2021",
-    "payment": "true",
-    "deposit": "false",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "orci"
   },
   {
@@ -40,8 +40,8 @@
     "eventDate": "10/3/2020",
     "pickupDate": "12/7/2020",
     "returnDate": "11/9/2020",
-    "payment": "false",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "justo"
   },
   {
@@ -55,8 +55,8 @@
     "eventDate": "8/28/2020",
     "pickupDate": "4/17/2020",
     "returnDate": "11/6/2020",
-    "payment": "false",
-    "deposit": "false",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "vestibulum"
   },
   {
@@ -70,8 +70,8 @@
     "eventDate": "5/28/2020",
     "pickupDate": "4/12/2020",
     "returnDate": "9/20/2020",
-    "payment": "true",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "in hac habitasse platea dictumst"
   },
   {
@@ -85,8 +85,8 @@
     "eventDate": "4/22/2020",
     "pickupDate": "5/24/2020",
     "returnDate": "9/19/2020",
-    "payment": "false",
-    "deposit": "false",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "penatibus et magnis"
   },
   {
@@ -100,8 +100,8 @@
     "eventDate": "1/5/2021",
     "pickupDate": "8/28/2020",
     "returnDate": "8/14/2020",
-    "payment": "true",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "vivamus"
   },
   {
@@ -115,8 +115,8 @@
     "eventDate": "10/24/2020",
     "pickupDate": "10/28/2020",
     "returnDate": "2/4/2021",
-    "payment": "true",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "volutpat convallis morbi odio"
   },
   {
@@ -130,8 +130,8 @@
     "eventDate": "11/24/2020",
     "pickupDate": "7/31/2020",
     "returnDate": "4/3/2020",
-    "payment": "false",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "pellentesque at nulla suspendisse"
   },
   {
@@ -145,8 +145,8 @@
     "eventDate": "10/19/2020",
     "pickupDate": "8/13/2020",
     "returnDate": "11/4/2020",
-    "payment": "false",
-    "deposit": "false",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "nec nisi"
   },
   {
@@ -160,8 +160,8 @@
     "eventDate": "12/9/2020",
     "pickupDate": "1/3/2021",
     "returnDate": "5/27/2020",
-    "payment": "false",
-    "deposit": "false",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "sagittis"
   },
   {
@@ -175,8 +175,8 @@
     "eventDate": "5/16/2020",
     "pickupDate": "3/11/2021",
     "returnDate": "8/25/2020",
-    "payment": "true",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "amet justo morbi ut odio"
   },
   {
@@ -190,8 +190,8 @@
     "eventDate": "2/27/2021",
     "pickupDate": "4/5/2020",
     "returnDate": "12/22/2020",
-    "payment": "true",
-    "deposit": "false",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "rutrum nulla"
   },
   {
@@ -205,8 +205,8 @@
     "eventDate": "6/16/2020",
     "pickupDate": "4/24/2020",
     "returnDate": "5/13/2020",
-    "payment": "true",
-    "deposit": "false",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "interdum venenatis turpis enim blandit"
   },
   {
@@ -220,8 +220,8 @@
     "eventDate": "1/4/2021",
     "pickupDate": "9/5/2020",
     "returnDate": "6/23/2020",
-    "payment": "true",
-    "deposit": "false",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "sed vel enim sit amet"
   },
   {
@@ -235,8 +235,8 @@
     "eventDate": "2/4/2021",
     "pickupDate": "6/13/2020",
     "returnDate": "9/4/2020",
-    "payment": "false",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "adipiscing lorem vitae"
   },
   {
@@ -250,8 +250,8 @@
     "eventDate": "4/20/2020",
     "pickupDate": "6/19/2020",
     "returnDate": "7/21/2020",
-    "payment": "false",
-    "deposit": "false",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "sapien"
   },
   {
@@ -265,8 +265,8 @@
     "eventDate": "7/25/2020",
     "pickupDate": "3/26/2020",
     "returnDate": "3/2/2021",
-    "payment": "false",
-    "deposit": "false",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "pretium nisl"
   },
   {
@@ -280,8 +280,8 @@
     "eventDate": "5/18/2020",
     "pickupDate": "7/3/2020",
     "returnDate": "2/25/2021",
-    "payment": "true",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "quisque erat eros viverra"
   },
   {
@@ -295,8 +295,8 @@
     "eventDate": "5/30/2020",
     "pickupDate": "5/26/2020",
     "returnDate": "5/27/2020",
-    "payment": "false",
-    "deposit": "false",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "vel nisl"
   },
   {
@@ -310,8 +310,8 @@
     "eventDate": "4/11/2020",
     "pickupDate": "8/31/2020",
     "returnDate": "10/29/2020",
-    "payment": "false",
-    "deposit": "false",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "in"
   },
   {
@@ -325,8 +325,8 @@
     "eventDate": "3/12/2021",
     "pickupDate": "8/21/2020",
     "returnDate": "3/10/2021",
-    "payment": "true",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "venenatis non"
   },
   {
@@ -340,8 +340,8 @@
     "eventDate": "3/3/2021",
     "pickupDate": "5/25/2020",
     "returnDate": "9/25/2020",
-    "payment": "true",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "scelerisque quam turpis"
   },
   {
@@ -355,8 +355,8 @@
     "eventDate": "11/4/2020",
     "pickupDate": "7/22/2020",
     "returnDate": "9/24/2020",
-    "payment": "true",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "donec"
   },
   {
@@ -370,8 +370,8 @@
     "eventDate": "7/29/2020",
     "pickupDate": "7/7/2020",
     "returnDate": "9/7/2020",
-    "payment": "true",
-    "deposit": "false",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "in faucibus orci"
   },
   {
@@ -385,8 +385,8 @@
     "eventDate": "6/9/2020",
     "pickupDate": "12/12/2020",
     "returnDate": "4/27/2020",
-    "payment": "true",
-    "deposit": "false",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "nascetur ridiculus mus"
   },
   {
@@ -400,8 +400,8 @@
     "eventDate": "4/11/2020",
     "pickupDate": "12/24/2020",
     "returnDate": "1/21/2021",
-    "payment": "false",
-    "deposit": "false",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "diam id ornare imperdiet"
   },
   {
@@ -415,8 +415,8 @@
     "eventDate": "7/22/2020",
     "pickupDate": "4/11/2020",
     "returnDate": "6/17/2020",
-    "payment": "true",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "vitae quam suspendisse potenti"
   },
   {
@@ -430,8 +430,8 @@
     "eventDate": "1/13/2021",
     "pickupDate": "3/23/2020",
     "returnDate": "8/10/2020",
-    "payment": "false",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "nibh in hac habitasse platea"
   },
   {
@@ -445,8 +445,8 @@
     "eventDate": "9/26/2020",
     "pickupDate": "5/11/2020",
     "returnDate": "9/30/2020",
-    "payment": "false",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "duis bibendum morbi"
   },
   {
@@ -460,8 +460,8 @@
     "eventDate": "4/19/2020",
     "pickupDate": "11/9/2020",
     "returnDate": "7/13/2020",
-    "payment": "true",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "id nisl"
   },
   {
@@ -475,8 +475,8 @@
     "eventDate": "2/25/2021",
     "pickupDate": "3/24/2020",
     "returnDate": "7/25/2020",
-    "payment": "false",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "cubilia curae"
   },
   {
@@ -490,8 +490,8 @@
     "eventDate": "1/11/2021",
     "pickupDate": "6/17/2020",
     "returnDate": "7/16/2020",
-    "payment": "true",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "suspendisse potenti"
   },
   {
@@ -505,8 +505,8 @@
     "eventDate": "4/8/2020",
     "pickupDate": "11/9/2020",
     "returnDate": "7/10/2020",
-    "payment": "true",
-    "deposit": "false",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "vel est"
   },
   {
@@ -520,8 +520,8 @@
     "eventDate": "1/6/2021",
     "pickupDate": "9/2/2020",
     "returnDate": "6/2/2020",
-    "payment": "false",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "blandit mi in porttitor"
   },
   {
@@ -535,8 +535,8 @@
     "eventDate": "2/21/2021",
     "pickupDate": "2/18/2021",
     "returnDate": "11/13/2020",
-    "payment": "true",
-    "deposit": "false",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "libero convallis eget eleifend"
   },
   {
@@ -550,8 +550,8 @@
     "eventDate": "7/11/2020",
     "pickupDate": "7/31/2020",
     "returnDate": "11/25/2020",
-    "payment": "true",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "lobortis ligula sit amet"
   },
   {
@@ -565,8 +565,8 @@
     "eventDate": "3/24/2020",
     "pickupDate": "4/7/2020",
     "returnDate": "9/30/2020",
-    "payment": "true",
-    "deposit": "false",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "ridiculus mus vivamus vestibulum"
   },
   {
@@ -580,8 +580,8 @@
     "eventDate": "8/18/2020",
     "pickupDate": "7/6/2020",
     "returnDate": "7/10/2020",
-    "payment": "true",
-    "deposit": "false",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "est lacinia nisi venenatis tristique"
   },
   {
@@ -595,8 +595,8 @@
     "eventDate": "6/6/2020",
     "pickupDate": "11/9/2020",
     "returnDate": "12/5/2020",
-    "payment": "false",
-    "deposit": "false",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "metus sapien ut"
   },
   {
@@ -610,8 +610,8 @@
     "eventDate": "8/10/2020",
     "pickupDate": "1/20/2021",
     "returnDate": "4/30/2020",
-    "payment": "true",
-    "deposit": "false",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "in hac habitasse platea"
   },
   {
@@ -625,8 +625,8 @@
     "eventDate": "1/29/2021",
     "pickupDate": "5/1/2020",
     "returnDate": "11/13/2020",
-    "payment": "false",
-    "deposit": "false",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "fermentum justo"
   },
   {
@@ -640,8 +640,8 @@
     "eventDate": "10/31/2020",
     "pickupDate": "2/10/2021",
     "returnDate": "8/7/2020",
-    "payment": "false",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "mi in"
   },
   {
@@ -655,8 +655,8 @@
     "eventDate": "6/20/2020",
     "pickupDate": "11/20/2020",
     "returnDate": "7/23/2020",
-    "payment": "true",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "eu mi nulla ac enim"
   },
   {
@@ -670,8 +670,8 @@
     "eventDate": "2/23/2021",
     "pickupDate": "11/13/2020",
     "returnDate": "11/1/2020",
-    "payment": "false",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "vivamus in"
   },
   {
@@ -685,8 +685,8 @@
     "eventDate": "1/29/2021",
     "pickupDate": "12/24/2020",
     "returnDate": "1/1/2021",
-    "payment": "false",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "ut suscipit a feugiat et"
   },
   {
@@ -700,8 +700,8 @@
     "eventDate": "3/10/2021",
     "pickupDate": "12/29/2020",
     "returnDate": "12/6/2020",
-    "payment": "true",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "vel dapibus at diam"
   },
   {
@@ -715,8 +715,8 @@
     "eventDate": "12/1/2020",
     "pickupDate": "8/30/2020",
     "returnDate": "6/17/2020",
-    "payment": "true",
-    "deposit": "false",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "justo in hac habitasse platea"
   },
   {
@@ -730,8 +730,8 @@
     "eventDate": "10/21/2020",
     "pickupDate": "12/3/2020",
     "returnDate": "12/19/2020",
-    "payment": "true",
-    "deposit": "false",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "dolor sit amet consectetuer adipiscing"
   },
   {
@@ -745,8 +745,8 @@
     "eventDate": "7/26/2020",
     "pickupDate": "10/1/2020",
     "returnDate": "12/12/2020",
-    "payment": "true",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "in sapien iaculis"
   },
   {
@@ -760,8 +760,8 @@
     "eventDate": "10/11/2020",
     "pickupDate": "3/4/2021",
     "returnDate": "11/23/2020",
-    "payment": "true",
-    "deposit": "false",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "mus vivamus vestibulum sagittis"
   },
   {
@@ -775,8 +775,8 @@
     "eventDate": "11/29/2020",
     "pickupDate": "4/25/2020",
     "returnDate": "1/17/2021",
-    "payment": "false",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "rutrum at lorem integer tincidunt"
   },
   {
@@ -790,8 +790,8 @@
     "eventDate": "2/11/2021",
     "pickupDate": "12/2/2020",
     "returnDate": "4/23/2020",
-    "payment": "false",
-    "deposit": "false",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "rhoncus aliquam lacus morbi quis"
   },
   {
@@ -805,8 +805,8 @@
     "eventDate": "11/6/2020",
     "pickupDate": "12/10/2020",
     "returnDate": "9/25/2020",
-    "payment": "true",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "eros viverra"
   },
   {
@@ -820,8 +820,8 @@
     "eventDate": "9/30/2020",
     "pickupDate": "11/30/2020",
     "returnDate": "1/11/2021",
-    "payment": "false",
-    "deposit": "false",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "morbi non lectus aliquam sit"
   },
   {
@@ -835,8 +835,8 @@
     "eventDate": "7/3/2020",
     "pickupDate": "1/10/2021",
     "returnDate": "8/28/2020",
-    "payment": "true",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "sit amet nulla quisque"
   },
   {
@@ -850,8 +850,8 @@
     "eventDate": "6/2/2020",
     "pickupDate": "1/26/2021",
     "returnDate": "5/4/2020",
-    "payment": "true",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "curabitur"
   },
   {
@@ -865,8 +865,8 @@
     "eventDate": "9/15/2020",
     "pickupDate": "10/16/2020",
     "returnDate": "2/28/2021",
-    "payment": "true",
-    "deposit": "false",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "primis in faucibus"
   },
   {
@@ -880,8 +880,8 @@
     "eventDate": "12/28/2020",
     "pickupDate": "8/21/2020",
     "returnDate": "2/19/2021",
-    "payment": "false",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "cursus urna ut"
   },
   {
@@ -895,8 +895,8 @@
     "eventDate": "3/11/2021",
     "pickupDate": "2/3/2021",
     "returnDate": "8/16/2020",
-    "payment": "false",
-    "deposit": "false",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "erat vestibulum sed magna at"
   },
   {
@@ -910,8 +910,8 @@
     "eventDate": "7/24/2020",
     "pickupDate": "5/30/2020",
     "returnDate": "5/3/2020",
-    "payment": "false",
-    "deposit": "false",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "mauris laoreet ut rhoncus"
   },
   {
@@ -925,8 +925,8 @@
     "eventDate": "9/22/2020",
     "pickupDate": "8/12/2020",
     "returnDate": "8/23/2020",
-    "payment": "false",
-    "deposit": "false",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "porttitor id"
   },
   {
@@ -940,8 +940,8 @@
     "eventDate": "5/29/2020",
     "pickupDate": "2/10/2021",
     "returnDate": "12/14/2020",
-    "payment": "false",
-    "deposit": "false",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "bibendum morbi non quam"
   },
   {
@@ -955,8 +955,8 @@
     "eventDate": "7/12/2020",
     "pickupDate": "5/30/2020",
     "returnDate": "8/26/2020",
-    "payment": "true",
-    "deposit": "false",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "nisl nunc rhoncus dui"
   },
   {
@@ -970,8 +970,8 @@
     "eventDate": "6/16/2020",
     "pickupDate": "4/13/2020",
     "returnDate": "10/17/2020",
-    "payment": "false",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "sapien quis"
   },
   {
@@ -985,8 +985,8 @@
     "eventDate": "9/4/2020",
     "pickupDate": "11/10/2020",
     "returnDate": "6/4/2020",
-    "payment": "false",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "donec dapibus duis"
   },
   {
@@ -1000,8 +1000,8 @@
     "eventDate": "5/24/2020",
     "pickupDate": "6/27/2020",
     "returnDate": "12/1/2020",
-    "payment": "true",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "ornare imperdiet sapien urna"
   },
   {
@@ -1015,8 +1015,8 @@
     "eventDate": "12/30/2020",
     "pickupDate": "7/6/2020",
     "returnDate": "1/2/2021",
-    "payment": "true",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "non"
   },
   {
@@ -1030,8 +1030,8 @@
     "eventDate": "11/13/2020",
     "pickupDate": "8/1/2020",
     "returnDate": "3/13/2021",
-    "payment": "false",
-    "deposit": "false",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "sed ante vivamus tortor duis"
   },
   {
@@ -1045,8 +1045,8 @@
     "eventDate": "2/7/2021",
     "pickupDate": "7/27/2020",
     "returnDate": "10/1/2020",
-    "payment": "true",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "donec vitae nisi"
   },
   {
@@ -1060,8 +1060,8 @@
     "eventDate": "11/24/2020",
     "pickupDate": "6/27/2020",
     "returnDate": "5/20/2020",
-    "payment": "true",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "quam"
   },
   {
@@ -1075,8 +1075,8 @@
     "eventDate": "12/9/2020",
     "pickupDate": "8/17/2020",
     "returnDate": "5/14/2020",
-    "payment": "false",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "velit id"
   },
   {
@@ -1090,8 +1090,8 @@
     "eventDate": "11/7/2020",
     "pickupDate": "2/14/2021",
     "returnDate": "4/5/2020",
-    "payment": "true",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "turpis"
   },
   {
@@ -1105,8 +1105,8 @@
     "eventDate": "5/20/2020",
     "pickupDate": "9/4/2020",
     "returnDate": "6/22/2020",
-    "payment": "false",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "enim leo rhoncus sed"
   },
   {
@@ -1120,8 +1120,8 @@
     "eventDate": "6/27/2020",
     "pickupDate": "11/2/2020",
     "returnDate": "7/27/2020",
-    "payment": "false",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "ut"
   },
   {
@@ -1135,8 +1135,8 @@
     "eventDate": "11/14/2020",
     "pickupDate": "9/11/2020",
     "returnDate": "2/5/2021",
-    "payment": "true",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "eu pede"
   },
   {
@@ -1150,8 +1150,8 @@
     "eventDate": "10/18/2020",
     "pickupDate": "8/4/2020",
     "returnDate": "8/1/2020",
-    "payment": "false",
-    "deposit": "false",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "pulvinar sed nisl nunc"
   },
   {
@@ -1165,8 +1165,8 @@
     "eventDate": "4/25/2020",
     "pickupDate": "8/5/2020",
     "returnDate": "11/8/2020",
-    "payment": "true",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "mauris"
   },
   {
@@ -1180,8 +1180,8 @@
     "eventDate": "3/20/2020",
     "pickupDate": "10/31/2020",
     "returnDate": "6/24/2020",
-    "payment": "false",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "scelerisque"
   },
   {
@@ -1195,8 +1195,8 @@
     "eventDate": "4/22/2020",
     "pickupDate": "9/3/2020",
     "returnDate": "7/16/2020",
-    "payment": "true",
-    "deposit": "false",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "primis in faucibus orci luctus"
   },
   {
@@ -1210,8 +1210,8 @@
     "eventDate": "8/14/2020",
     "pickupDate": "8/16/2020",
     "returnDate": "4/2/2020",
-    "payment": "false",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "ac est lacinia"
   },
   {
@@ -1225,8 +1225,8 @@
     "eventDate": "9/22/2020",
     "pickupDate": "12/4/2020",
     "returnDate": "6/28/2020",
-    "payment": "true",
-    "deposit": "false",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "ligula in lacus curabitur at"
   },
   {
@@ -1240,8 +1240,8 @@
     "eventDate": "2/15/2021",
     "pickupDate": "5/19/2020",
     "returnDate": "9/5/2020",
-    "payment": "false",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "ipsum primis in faucibus orci"
   },
   {
@@ -1255,8 +1255,8 @@
     "eventDate": "8/26/2020",
     "pickupDate": "3/20/2020",
     "returnDate": "1/12/2021",
-    "payment": "false",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "turpis sed ante vivamus"
   },
   {
@@ -1270,8 +1270,8 @@
     "eventDate": "9/16/2020",
     "pickupDate": "3/22/2020",
     "returnDate": "10/25/2020",
-    "payment": "false",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "dui"
   },
   {
@@ -1285,8 +1285,8 @@
     "eventDate": "11/5/2020",
     "pickupDate": "2/12/2021",
     "returnDate": "7/22/2020",
-    "payment": "true",
-    "deposit": "false",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "magna vulputate"
   },
   {
@@ -1300,8 +1300,8 @@
     "eventDate": "12/22/2020",
     "pickupDate": "5/19/2020",
     "returnDate": "7/27/2020",
-    "payment": "true",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "tellus semper interdum"
   },
   {
@@ -1315,8 +1315,8 @@
     "eventDate": "3/31/2020",
     "pickupDate": "7/16/2020",
     "returnDate": "7/5/2020",
-    "payment": "false",
-    "deposit": "false",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "adipiscing elit proin interdum"
   },
   {
@@ -1330,8 +1330,8 @@
     "eventDate": "2/15/2021",
     "pickupDate": "5/30/2020",
     "returnDate": "5/26/2020",
-    "payment": "false",
-    "deposit": "false",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "tristique"
   },
   {
@@ -1345,8 +1345,8 @@
     "eventDate": "2/8/2021",
     "pickupDate": "4/4/2020",
     "returnDate": "5/1/2020",
-    "payment": "true",
-    "deposit": "false",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "donec"
   },
   {
@@ -1360,8 +1360,8 @@
     "eventDate": "9/23/2020",
     "pickupDate": "2/19/2021",
     "returnDate": "4/9/2020",
-    "payment": "false",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "rutrum rutrum"
   },
   {
@@ -1375,8 +1375,8 @@
     "eventDate": "6/3/2020",
     "pickupDate": "5/17/2020",
     "returnDate": "5/16/2020",
-    "payment": "true",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "justo aliquam quis turpis eget"
   },
   {
@@ -1390,8 +1390,8 @@
     "eventDate": "4/16/2020",
     "pickupDate": "10/31/2020",
     "returnDate": "12/13/2020",
-    "payment": "true",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "quisque id justo"
   },
   {
@@ -1405,8 +1405,8 @@
     "eventDate": "12/3/2020",
     "pickupDate": "1/4/2021",
     "returnDate": "3/6/2021",
-    "payment": "false",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "imperdiet sapien urna"
   },
   {
@@ -1420,8 +1420,8 @@
     "eventDate": "1/6/2021",
     "pickupDate": "7/9/2020",
     "returnDate": "5/1/2020",
-    "payment": "false",
-    "deposit": "false",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "nisl duis"
   },
   {
@@ -1435,8 +1435,8 @@
     "eventDate": "1/1/2021",
     "pickupDate": "6/2/2020",
     "returnDate": "4/6/2020",
-    "payment": "false",
-    "deposit": "false",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "parturient"
   },
   {
@@ -1450,8 +1450,8 @@
     "eventDate": "3/21/2020",
     "pickupDate": "9/24/2020",
     "returnDate": "9/26/2020",
-    "payment": "true",
-    "deposit": "false",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "orci luctus et"
   },
   {
@@ -1465,8 +1465,8 @@
     "eventDate": "2/8/2021",
     "pickupDate": "8/18/2020",
     "returnDate": "2/4/2021",
-    "payment": "true",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "mus vivamus vestibulum"
   },
   {
@@ -1480,8 +1480,8 @@
     "eventDate": "4/1/2020",
     "pickupDate": "12/28/2020",
     "returnDate": "7/12/2020",
-    "payment": "true",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "ante vivamus tortor duis mattis"
   },
   {
@@ -1495,8 +1495,8 @@
     "eventDate": "12/13/2020",
     "pickupDate": "5/21/2020",
     "returnDate": "11/15/2020",
-    "payment": "true",
-    "deposit": "true",
+    "payment": "complete",
+    "deposit": "complete",
     "note": "sed"
   }
 ]

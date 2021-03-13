@@ -29,8 +29,10 @@ const Reservation = () => {
         <TableHead>
           <TableRow>
             <TableCell>번호</TableCell>
-            {rows.map((row) => (
-              <TableCell align="left">{row}</TableCell>
+            {rows.map((row, index) => (
+              <TableCell key={index} align="left">
+                {row}
+              </TableCell>
             ))}
           </TableRow>
         </TableHead>
