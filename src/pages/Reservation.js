@@ -1,33 +1,37 @@
-import data from '../mock_data/RESERVATION_DATA.json'
+import data from "../mock_data/RESERVATION_DATA.json";
 
-import Table from '@material-ui/core/Table';
-import TableBody from '@material-ui/core/TableBody';
-import TableCell from '@material-ui/core/TableCell';
-import TableContainer from '@material-ui/core/TableContainer';
-import TableHead from '@material-ui/core/TableHead';
-import TableRow from '@material-ui/core/TableRow';
+import Table from "@material-ui/core/Table";
+import TableBody from "@material-ui/core/TableBody";
+import TableCell from "@material-ui/core/TableCell";
+import TableContainer from "@material-ui/core/TableContainer";
+import TableHead from "@material-ui/core/TableHead";
+import TableRow from "@material-ui/core/TableRow";
 // import Paper from '@material-ui/core/Paper';
 
+const rows = [
+  "방문일",
+  "이름",
+  "연락처",
+  "유형",
+  "드레스",
+  "사이즈",
+  "행사일",
+  "픽업일",
+  "반납일",
+  "결제",
+  "보증금",
+];
+
 const Reservation = () => {
-  console.log('data', data)
-  
   return (
     <TableContainer>
       <Table aria-label="simple table">
         <TableHead>
           <TableRow>
             <TableCell>번호</TableCell>
-            <TableCell align="left">방문일</TableCell>
-            <TableCell align="left">이름</TableCell>
-            <TableCell align="left">연락처</TableCell>
-            <TableCell align="left">유형</TableCell>
-            <TableCell align="left">드레스</TableCell>
-            <TableCell align="left">사이즈</TableCell>
-            <TableCell align="left">행사일</TableCell>
-            <TableCell align="left">픽업일</TableCell>
-            <TableCell align="left">반납일</TableCell>
-            <TableCell align="left">결제</TableCell>
-            <TableCell align="left">보증금</TableCell>
+            {rows.map((row) => (
+              <TableCell align="left">{row}</TableCell>
+            ))}
           </TableRow>
         </TableHead>
         <TableBody>
@@ -52,7 +56,7 @@ const Reservation = () => {
         </TableBody>
       </Table>
     </TableContainer>
-  )
-}
+  );
+};
 
 export default Reservation;

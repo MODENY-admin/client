@@ -1,4 +1,7 @@
 import React from "react";
+import { Router, Route, Link } from "react-router-dom";
+import { createBrowserHistory } from "history";
+
 import clsx from "clsx";
 import { makeStyles, useTheme } from "@material-ui/core/styles";
 import Drawer from "@material-ui/core/Drawer";
@@ -23,6 +26,9 @@ import ChangeHistoryIcon from "@material-ui/icons/ChangeHistory";
 import PanToolIcon from "@material-ui/icons/PanTool";
 
 import Reservation from "../pages/Reservation";
+import Dress from "../pages/Dress";
+
+const history = createBrowserHistory();
 
 const drawerWidth = 240;
 
@@ -106,26 +112,31 @@ export default function MiniDrawer() {
       title: "예약",
       label: "reversation",
       icon: <AssignmentIcon />,
+      path: "/reservation",
     },
     {
       title: "드레스",
       label: "dress",
       icon: <AccessibilityIcon />,
+      path: "/dress",
     },
     {
       title: "맞춤 드레스",
       label: "customDress",
       icon: <EditIcon />,
+      path: "/customDress",
     },
     {
       title: "베일",
       label: "veil",
       icon: <ChangeHistoryIcon />,
+      path: "/veil",
     },
     {
       title: "메이크업",
       label: "makeup",
       icon: <PanToolIcon />,
+      path: "/makeup",
     },
   ];
 
@@ -155,55 +166,63 @@ export default function MiniDrawer() {
           </Typography>
         </Toolbar>
       </AppBar>
-      <Drawer
-        variant="permanent"
-        className={clsx(classes.drawer, {
-          [classes.drawerOpen]: open,
-          [classes.drawerClose]: !open,
-        })}
-        classes={{
-          paper: clsx({
+      <Router history={history}>
+        <Drawer
+          variant="permanent"
+          className={clsx(classes.drawer, {
             [classes.drawerOpen]: open,
             [classes.drawerClose]: !open,
-          }),
-        }}
-      >
-        <div className={classes.toolbar}>
-          <IconButton onClick={handleDrawerClose}>
-            {theme.direction === "rtl" ? (
-              <ChevronRightIcon />
-            ) : (
-              <ChevronLeftIcon />
-            )}
-          </IconButton>
-        </div>
-        <Divider />
-        <List>
-          {menus.map((menu, index) => {
-            return (
-              <ListItem button key={menu.label}>
-                <ListItemIcon>{menu.icon}</ListItemIcon>
-                <ListItemText primary={menu.title} />
-              </ListItem>
-            );
           })}
-        </List>
-        <Divider />
-        <List>
-          {["메뉴 1", "메뉴 2"].map((text, index) => (
-            <ListItem button key={text}>
-              <ListItemIcon>
-                {/* {index % 2 === 0 ? <InboxIcon /> : <MailIcon />} */}
-              </ListItemIcon>
-              <ListItemText primary={text} />
-            </ListItem>
-          ))}
-        </List>
-      </Drawer>
-      <main className={classes.content}>
-        <div className={classes.toolbar} />
-        <Reservation />
-      </main>
+          classes={{
+            paper: clsx({
+              [classes.drawerOpen]: open,
+              [classes.drawerClose]: !open,
+            }),
+          }}
+        >
+          <div className={classes.toolbar}>
+            <IconButton onClick={handleDrawerClose}>
+              {theme.direction === "rtl" ? (
+                <ChevronRightIcon />
+              ) : (
+                <ChevronLeftIcon />
+              )}
+            </IconButton>
+          </div>
+          <Divider />
+          <List>
+            {menus.map((menu, index) => {
+              return (
+                <ListItem
+                  button
+                  key={menu.label}
+                  component={Link}
+                  to={menu.path}
+                >
+                  <ListItemIcon>{menu.icon}</ListItemIcon>
+                  <ListItemText primary={menu.title} />
+                </ListItem>
+              );
+            })}
+          </List>
+          <Divider />
+          <List>
+            {["메뉴 1", "메뉴 2"].map((text, index) => (
+              <ListItem button key={text}>
+                <ListItemIcon>
+                  {/* {index % 2 === 0 ? <InboxIcon /> : <MailIcon />} */}
+                </ListItemIcon>
+                <ListItemText primary={text} />
+              </ListItem>
+            ))}
+          </List>
+        </Drawer>
+        <main className={classes.content}>
+          <div className={classes.toolbar} />
+          <Route exact path="/reservation" component={Reservation} />
+          <Route path="/dress" component={Dress} />
+        </main>
+      </Router>
     </div>
   );
 }
