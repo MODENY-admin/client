@@ -1,10 +1,8 @@
 import data from "../mock_data/CUSTOMDRESS_DATA.json";
 
-import { BasicTable } from "../UI/Table";
-import TableBody from "@material-ui/core/TableBody";
 import TableRow from "@material-ui/core/TableRow";
 import TableCell from "@material-ui/core/TableCell";
-
+import { CustomTable } from "../UI/CustomTable";
 import { DatePicker } from "../UI/Picker";
 
 const rows = [
@@ -16,32 +14,28 @@ const rows = [
   "특이사항",
 ];
 
-const body = (data) => {
+const getCells = (row) => {
   return (
-    <TableBody>
-      {data.map((row) => (
-        <TableRow key={row.id}>
-          <TableCell component="th" scope="row">
-            {row.id}
-          </TableCell>
-          <TableCell align="left">{row.customer}</TableCell>
-          <TableCell align="left">{row.dress}</TableCell>
-          <TableCell align="left">{row.size}</TableCell>
-          <TableCell align="left">
-            <DatePicker />
-          </TableCell>
-          <TableCell align="left">
-            <DatePicker />
-          </TableCell>
-          <TableCell align="left">{row.note}</TableCell>
-        </TableRow>
-      ))}
-    </TableBody>
+    <TableRow key={row.id}>
+      <TableCell component="th" scope="row">
+        {row.id}
+      </TableCell>
+      <TableCell align="left">{row.customer}</TableCell>
+      <TableCell align="left">{row.dress}</TableCell>
+      <TableCell align="left">{row.size}</TableCell>
+      <TableCell align="left">
+        <DatePicker />
+      </TableCell>
+      <TableCell align="left">
+        <DatePicker />
+      </TableCell>
+      <TableCell align="left">{row.note}</TableCell>
+    </TableRow>
   );
 };
 
 const CustomDress = () => {
-  return <BasicTable rows={rows} data={data} tableBody={body(data)} />;
+  return <CustomTable rows={rows} data={data} getCells={getCells} />;
 };
 
 export default CustomDress;
