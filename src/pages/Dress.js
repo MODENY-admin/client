@@ -1,19 +1,10 @@
 import data from "../mock_data/DRESS_DATA.json";
+import { rows } from "../common";
 
 import TableRow from "@material-ui/core/TableRow";
 import TableCell from "@material-ui/core/TableCell";
 import { CustomTable } from "../UI/CustomTable";
 import { DatePicker } from "../UI/Picker";
-
-const rows = [
-  "드레스",
-  "등록일",
-  "원가",
-  "마진",
-  "보유 수량",
-  "오픈 수량",
-  "특이사항",
-];
 
 const getCells = (row) => {
   return (
@@ -35,7 +26,7 @@ const getCells = (row) => {
 };
 
 const Dress = () => {
-  return <CustomTable rows={rows} data={data} getCells={getCells} />;
+  return <CustomTable rows={rows.dress} data={data} getCells={getCells} />;
 };
 
 export default Dress;

@@ -19,6 +19,7 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 const today = dateFns.format(new Date(), "yyyy-MM-dd");
+console.log("today", today);
 
 export const DatePicker = () => {
   const classes = useStyles();
